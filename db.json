@@ -1,0 +1,52 @@
+{
+  "users":[
+    {
+      "firstName": "Ibrahim Al",
+      "lastName": "Azhar",
+      "email": "ibrahimalazhar264@gmail.com",
+      "age" : 24,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Twin",
+      "email": "marktwin@gmail.com",
+      "age" : 34,
+      "companyId": "2"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "age" : 44,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Leonardo",
+      "lastName": "Di Caprio",
+      "email": "leonardodicaprio@gmail.com",
+      "age" : 32,
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id":"1",
+      "name":"Apple",
+      "description": "Apple Inc. is an American multinational technology company headquarter in Cupertino, California that designs, develops, and sells consumer electronics, computer software, and online devices. ... Its online services include the iTunes Store, the iOS App store and Mac App Store, Apple Store, Apple Music, and iCloud"
+    },
+    {
+      "id":"2",
+      "name":"Microsoft",
+      "description": "Microsoft Corporation, incorporated on Sptember 22, 1993, is a technology company. The Company develops ,licenses, ans supports a range of software products, services and devices. The Company's segments include Productivity and Business Processes, Intelligent Cloud and More Personal Computing"
+    },
+    {
+      "id":"3",
+      "name":"Google",
+      "description": "Google was founded by Larry Page and Sergey Brin while they were students at Standford University. The company was officially launched in September, 1998 in a friend's garage... The official mission statement of the company is to organize the world's information and make it universally accessible ans useful"
+    }
+  ]
+
+
+
+}
